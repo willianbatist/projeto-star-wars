@@ -1,4 +1,6 @@
-# Desafio de _[Willian Alves Batista](https://www.linkedin.com/in/willian-alves-batista-60aa6a180/)_ para integrar o banco de talentos como Desenvolvedor Front-end
+### Observação
+
+Este repositório contem o **Projeto User Registration API** que reúne o aprendizado desenvolvido por _[Willian Alves Batista](https://www.linkedin.com/in/willian-alves-batista-60aa6a180/)_.
 
 
 # Projeto Star Wars
@@ -33,7 +35,7 @@ O Projeto é uma pagina de personagens de Star Wars, sendo possivel pesquisar, f
 
 Primeiro, clone o projeto na sua maquina. No terminal digite:
 
-    git clone git@github.com:willianbatist/willian-alves-batista-frontend.git
+    git clone git@github.com:willianbatist/projeto-star-wars.git
     
 Ainda no terminal, entre na raiz do projeto e digite:
 
